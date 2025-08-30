@@ -1,11 +1,18 @@
 # Zoom - Real-Time Video Conferencing Web App
+A full-stack real-time video conferencing web application built with WebRTC, Socket.io, and Node.js.
+It supports video/audio calls, chat, screen sharing, and authentication—all in the browser.
 
-## Features
+✨ Features
 
-- Real-time video and audio communication
-- Secure user authentication 
-- Screen sharing and chat functionality
-- Easy deployment instructions
+🔹 Real-time video & audio conferencing (WebRTC)
+
+🔹 Chat messaging alongside video calls
+
+🔹 Screen sharing for presentations
+
+🔹 User authentication & room joining
+
+🔹 Lightweight frontend (HTML/CSS/JS) + scalable backend (Node/Express)
 
 ## Getting Started
 
@@ -25,9 +32,15 @@
 - Socket.io for signaling
 - Frontend: HTML, CSS, JavaScript
 
-## Contribution
+Deployment
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+You can deploy the app easily on:
+
+Heroku / Render (backend)
+
+Netlify / Vercel (frontend)
+
+Make sure to update Socket.io server URLs in the frontend when deploying.
 
 ## License
 
